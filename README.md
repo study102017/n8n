@@ -31,6 +31,13 @@ docker run -it --rm --name n8n -p 5678:5678 -v n8n_data:/home/node/.n8n docker.n
 
 Access the editor at http://localhost:5678
 
+## Deploy to Cloud
+
+Ready to deploy n8n to production? Check out our detailed deployment guides:
+
+- 🚀 [Deploy to Render.com](./DEPLOY_TO_RENDER.md) - Complete step-by-step guide for Render.com hosting
+- 📖 [Other Hosting Options](https://docs.n8n.io/hosting/installation/server-setups/) - AWS, Digital Ocean, Azure, and more
+
 ## Resources
 
 - 📚 [Documentation](https://docs.n8n.io)
